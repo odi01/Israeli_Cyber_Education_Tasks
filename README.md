@@ -22,8 +22,8 @@ Task Link - www.shorturl.at/oFHK4
 
 
 ## 4 - Mini Tasks
-### 4.1 - Login Credentials Checker
-Using custom made generators to create login credential checker according to specific conditions.
+### 4.1 - Login Credentials Checker (Exception)
+Using custom class exceptions to create login credential checker according to specific conditions.
 
 Task Link - www.shorturl.at/dCGJR
 
