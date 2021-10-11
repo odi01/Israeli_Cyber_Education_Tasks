@@ -19,3 +19,17 @@ Task Link - www.shorturl.at/tvKS6
 This program uses a real ID algorithm to generate valid ID numbers and all of their valid followings based on the user date of birth. Also, taking advantage of Generators and Iterators to separate specific tasks to make the code more readable and use custom made Exceptions to handle errors better.
 
 Task Link - www.shorturl.at/oFHK4
+
+
+## 4 - Mini Tasks
+### 4.1 - Login Credentials Checker
+Using custom made generators to create login credential checker according to specific conditions.
+
+Task Link - www.shorturl.at/dCGJR
+
+
+### 4.2 - Dates and Time Generator
+A program that produces dates and times from a specific date to infinity in dd/mm/yyyy hh/mm/ss format using Generator for each time frame.
+
+Task Link - www.shorturl.at/jrHK2
+
