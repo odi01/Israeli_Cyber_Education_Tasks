@@ -1,5 +1,4 @@
 # Israeli Cyber Education Python Course
-Tasks that I chose to represent from the Israeli Cyber Education Python Course (Self.py & Next.py).
 
 ## 1 - Hangman Game (Basic Python)
 ### A simple hangman game that applies all the basics of Python into a functional game.
