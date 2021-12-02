@@ -15,8 +15,8 @@ Task Link - www.shorturl.at/tvKS6
 
 
 ## 3 - ID Number Generator (Advance)
-### Using advanced concepts in Python such as OOP, Generators, Iterators, One-Liners, Map, etc... to program an Israeli ID number generator based on user date of birth.
-This program uses a real ID algorithm to generate valid ID numbers and all of their valid followings based on the user date of birth. Also, taking advantage of Generators and Iterators to separate specific tasks to make the code more readable and use custom made Exceptions to handle errors better.
+### Using advanced concepts in Python such as OOP, Generators, Iterators, One-Liners, Map, etc... to program an Israeli ID number generator based on a real ID number or default vale of 100,000,000.
+This program uses a real ID algorithm to generate valid ID numbers and all of their valid followings based on the existing ID number. Also, taking advantage of Generators and Iterators to separate specific tasks to make the code more readable and use custom made Exceptions to handle errors better.
 
 Task Link - www.shorturl.at/oFHK4
 
